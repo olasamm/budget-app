@@ -36,3 +36,10 @@ function getStarted(){
     document.getElementById('price').value =""
     document.getElementById('Quality').value = ""
 }
+
+shom.innerHTML += 'Hey', + inputOne
+
+
+function login(){
+    location.href = "http://127.0.0.1:5500/index.html"
+}
